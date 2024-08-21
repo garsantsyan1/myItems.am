@@ -1,0 +1,62 @@
+
+body {
+    background-color: #f87777;
+}
+
+/*body {font-family: Arial, Helvetica, sans-serif;}*/
+/** {box-sizing: border-box}*/
+
+/*!* Поля ввода полной ширины *!*/
+/*input[type=text], input[type=password] {*/
+/*    width: 100%;*/
+/*    padding: 15px;*/
+/*    margin: 5px 0 22px 0;*/
+/*    display: inline-block;*/
+/*    border: none;*/
+/*    background: #f1f1f1;*/
+/*}*/
+
+/*input[type=text]:focus, input[type=password]:focus {*/
+/*    background-color: #ddd;*/
+/*    outline: none;*/
+/*}*/
+
+/*hr {*/
+/*    border: 1px solid #f1f1f1;*/
+/*    margin-bottom: 25px;*/
+/*}*/
+
+/*!* Установите стиль для всех кнопок *!*/
+/*button {*/
+/*    background-color: #4CAF50;*/
+/*    color: white;*/
+/*    padding: 14px 20px;*/
+/*    margin: 8px 0;*/
+/*    border: none;*/
+/*    cursor: pointer;*/
+/*    width: 100%;*/
+/*    opacity: 0.9;*/
+/*}*/
+
+/*button:hover {*/
+/*    opacity:1;*/
+/*}*/
+
+
+/*!* Поплавок отмена и кнопки регистрации и добавить равную ширину *!*/
+/*.signupbtn {*/
+/*    float: left;*/
+/*    width: 50%;*/
+/*}*/
+
+/*!* Добавление отступов к элементам контейнера *!*/
+/*.container {*/
+/*    padding: 16px;*/
+/*}*/
+
+/*!* Снимите поплавки *!*/
+/*.clearfix::after {*/
+/*    content: "";*/
+/*    clear: both;*/
+/*    display: table;*/
+/*}*/
